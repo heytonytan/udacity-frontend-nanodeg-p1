@@ -1,0 +1,5 @@
+Websites referenced to complete p1:
+http://getbootstrap.com/examples/grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+http://stackoverflow.com/questions/tagged/css
+https://piazza.com/

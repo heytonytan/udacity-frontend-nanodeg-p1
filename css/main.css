@@ -1,0 +1,82 @@
+* {
+  font-family: Verdana, sans-serif;
+}
+
+/* h1, h2, p, li */
+
+h1 {
+  color: #666;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  color: #f07c17;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 30px 0;
+}
+
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+li {
+  line-height: 32px;
+  font-size: 16px;
+}
+
+/* bootstrap classes */
+
+.container {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  width: 1024px;
+}
+
+.row {
+  margin: 0 0 0 0;
+  max-width: 1024px;
+}
+
+.col-md-12 {
+  padding: 25px 0 0;
+  width: 100%;
+}
+
+.col-md-5 {
+  /* padding: top right bottom left; */
+  padding: 0 10px 0 42px;
+}
+
+.col-md-7 {
+  /* padding: top right bottom left; */
+  padding: 0 43px 0 20px;
+}
+
+/* created classes */
+
+.main {
+  margin: 20px 0 0;
+}
+
+.paras {
+  display: block;
+}
+
+.mug-image {
+  max-height: 374px;
+  max-width:  374px;
+}
+
+.box {
+  display: block;
+  width: 374px;
+  height: 224px;
+  margin: 30px 0 0;
+  padding: 30px;
+  border: 1px solid #ccc
+}
+/* Congratulations you achieved a 0% mismatch, that's completely Udacious! */
